@@ -1,0 +1,1 @@
+This code repository includes a novel approach called SynKH, which leverages the integration of Knowledge Graph representation and HyperGraph modeling to predict the synergistic effects of drug combinations
