@@ -14,7 +14,7 @@ pip install dhg
 
 **Usage**
 
-You can download all data from  https://github.com/maryammehrabani/SynGraph/tree/master/DATA
+You can download all data from  https://github.com/maryammehrabani/SynergyGraph/tree/master/DATA
 
 Required functions:
 
